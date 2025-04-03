@@ -1,0 +1,16 @@
+.high-priority {
+    background-color: #ffb3b3;
+}
+
+.medium-priority {
+    background-color: #ffe6b3;
+}
+
+.low-priority {
+    background-color: #c2f0c2;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
